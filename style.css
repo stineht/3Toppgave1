@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+ h3{
+    font-family: "Alegreya Sans SC", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+    font-size: clamp(3rem, 15vw, 7rem);
+    text-transform: uppercase;
+    color: #bb4af0;
+
+ }
+
+ p, div{ font-family: "Alegreya Sans SC", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+    font-size: clamp(3rem, 10vw, 1rem);
+    text-transform: uppercase;
+    color: #bb4af0;
+
+ }
+ 

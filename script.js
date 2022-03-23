@@ -14,7 +14,7 @@ function visTiden() {
 
     document.getElementById("klokka").innerHTML= time + ":" + minutt + ":" + sekund;
 
-    setInterval(visTiden, 1000);
+    setInterval(visTiden, 500);
 
 }
 
